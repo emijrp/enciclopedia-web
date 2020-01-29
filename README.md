@@ -1,2 +1,3 @@
 # enciclopedia-web
-Enciclopedia generalista basada en Wikipedia
+
+Enciclopedia generalista basada en Wikipedia.
